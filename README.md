@@ -57,7 +57,7 @@ Essas são minhas contribuições e estatísticas:
 ## 📫 Como me encontrar?
 
 [![Gmail Badge](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasvannucchi16@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-vannucchi-072743239)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vannucchi-072743239)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vannucchi__?igsh=emV5NGY1aTdqcDI0 )
   
 ---
