@@ -37,10 +37,7 @@ Essas são as tecnologias que mais utilizo para criar soluções poderosas:
 
 ## 🔥 Meus Projetos
 
-Confira alguns dos projetos que participei desenvolvendo e compartilhei no GitHub:
-
-- [**Projeto Inspiratio React + Next.js**](https://github.com/Pandora-Tech-Solutions/inspiration-frontend) - Uma aplicação web dinâmica com React e Next.js, implementando SSR.
-- [**API REST com NestJS, Node.js + MongoDB**](https://github.com/CodeInnove/API-INSPIRATIO-1.0) - API escalável e modular utilizando NestJS e Node.js.
+Ainda não possuo projetos publicados, mas estou correndo atrás e em breve vou compartilhar minhas criações por aqui!
 
 ---
 
