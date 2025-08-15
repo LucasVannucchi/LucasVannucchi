@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/-Desenvolvedor%20Full%20Stack%20-%230078D4?style=flat-square&logo=react&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nest,node,java,postgres,mongo,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nest,java,postgres,mongo,docker)](https://skillicons.dev)
 
 ---
 
