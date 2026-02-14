@@ -1,6 +1,9 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Lucas+Vannucchi!+👋;Desenvolvedor+Back-End+apaixonado+por+tecnologia;Construindo+APIs+robustas+%26+escaláveis+🚀" alt="Typing SVG">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Lucas+Vannucchi!+%F0%9F%91%8B;Desenvolvedor+Back-End+apaixonado+por+tecnologia;Construindo+APIs+robustas+%26+escal%C3%A1veis+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -16,7 +19,7 @@ Embora meu foco seja o servidor, também possuo conhecimento em **Front-End** mo
 ## ⚙️ Stack & Ferramentas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,ts,express,postgres,mongo,docker,git,github,react,next,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,ts,express,postgres,mongo,docker,git,github,react,nextjs,html,css" />
 </p>
 
 ---
@@ -31,24 +34,42 @@ Embora meu foco seja o servidor, também possuo conhecimento em **Front-End** mo
 
 ---
 
-## 📈 Estatísticas do GitHub  
+## 📊 Estatísticas  
 
-<div align="center">
+<p align="center">
+  <img 
+    height="170"
+    src="https://streak-stats.demolab.com?user=LucasVannucchi&theme=dark&border_radius=8"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasVannucchi&show_icons=true&theme=radical&hide_title=true&count_private=true)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVannucchi&layout=compact&theme=radical)
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasVannucchi&theme=github_dark"
+  />
+</p>
 
 ---
 
+<div align="center">
+
 ## 📫 Vamos conversar?  
 
-<p align="center">
-  <a href="mailto:lucasvannucchi16@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-vannucchi-072743239"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/vannucchi__?igsh=emV5NGY1aTdqcDI0"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+<br>
+
+<a href="mailto:lucasvannucchi16@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucas-vannucchi-072743239">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vannucchi__?igsh=emV5NGY1aTdqcDI0">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+</div>
 
 ---
 
