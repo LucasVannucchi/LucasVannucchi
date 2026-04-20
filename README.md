@@ -19,7 +19,7 @@ Embora meu foco seja o servidor, também possuo conhecimento em **Front-End** mo
 ## ⚙️ Stack & Ferramentas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nest,ts,express,postgres,mongo,docker,git,github,react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongo,docker,git,github" />
 </p>
 
 ---
